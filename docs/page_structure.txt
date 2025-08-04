@@ -1,0 +1,7 @@
+index.html webの最初のページ
+input Geminiへの指示などGeminiから見てinputになるページを配置する
+  entry 攻撃の入り口
+    01
+  maintain 攻撃の維持・継続
+output Geminiからの応答などGeminiから見てoutputになるページを配置する
+  01
